@@ -1,0 +1,66 @@
+html, body {
+margin:0;
+padding:0;
+}
+#h1 {
+
+margin: 0.5ems;
+padding:0.5 ems;
+height:35px
+}
+h2 {
+margin:0;
+padding:0;
+}
+#help-container {
+width: 760px;
+margin=auto;
+color:white;
+}
+#menu {
+background-color:orange;
+
+height:35px;
+font-size:24px;
+float:left;
+width:760px;
+}
+#menu ul {
+list-style: none;
+margin: 0;
+padding:0;
+height:35px
+
+}
+
+#menu li {
+float:left;
+margin: 0 1.00em;
+}
+#header  {
+background-color:pink;
+height: 50px;
+font-size:24px;
+clear:both;
+}
+
+#sidebar-a  {
+float:right;
+
+background-color:blue;
+
+width:240px;
+height:470px;
+}
+#content {
+float:center;
+background-color:rgb(211,255,255);
+width:500px;
+font-size: 44px;
+}
+footer     {
+clear:both;
+background-color:orange;
+width:760px;
+font-size:24px;
+}
